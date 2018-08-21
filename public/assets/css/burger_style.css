@@ -54,7 +54,7 @@ li {
       height: 100%;
   }
   body { 
-      background-image: url(http://glimpsesofcharleston.com/wp-content/uploads/2015/02/french-fries17908686_lrg.jpg) ;
+      background-image: url(https://st.depositphotos.com/2007501/2151/i/950/depositphotos_21516699-stock-photo-rustic-wooden-wall-background-of.jpg) ;
       background-position: center center;
       background-repeat:  no-repeat;
       background-attachment: fixed;
@@ -69,10 +69,6 @@ li {
       color: black;
   }
   
-  .footer {
-      text-align: center;
-      text-shadow: 1px 1px #ffffff;
-  }
   .wrapper {
       height: 100%; 
       width: 100%; 
@@ -91,3 +87,8 @@ li {
     color: #fff;
     padding: 0.5em;
   }
+
+  .footer {
+    text-align: center;
+    text-shadow: 1px 1px #ffffff;
+}
